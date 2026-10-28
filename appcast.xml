@@ -3,6 +3,15 @@
 <channel>
 <title>Orbit</title>
 <item>
+  <title>Orbit 0.2.2</title>
+  <pubDate>Wed, 28 Oct 2026 13:16:53 GMT</pubDate>
+  <sparkle:version>85</sparkle:version>
+  <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+  <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+  <description><![CDATA[<p>Spotify Connect: choose where Spotify plays from the notch. Outlook and Google calendar hints in Meetings. New Orbit app and menu bar icons, and a designed install window.</p>]]></description>
+  <enclosure url="https://github.com/vgawor/orbit-releases/releases/download/v0.2.2/Orbit-0.2.2.dmg" type="application/octet-stream" sparkle:edSignature="E9seReUWNs5Q+myN4WyDRtcgD7aIOERf07JgrBNEWAzAZB5YAMdbgsauhvUcSjUQQCXJcupJlnScJ7ihxNC9Dw==" length="8848217" />
+</item>
+<item>
   <title>Orbit 0.2.1</title>
   <pubDate>Wed, 28 Oct 2026 12:17:17 GMT</pubDate>
   <sparkle:version>81</sparkle:version>
