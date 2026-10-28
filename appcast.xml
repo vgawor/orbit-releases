@@ -3,6 +3,15 @@
 <channel>
 <title>Orbit</title>
 <item>
+  <title>Orbit 0.2.1</title>
+  <pubDate>Wed, 28 Oct 2026 12:17:17 GMT</pubDate>
+  <sparkle:version>81</sparkle:version>
+  <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+  <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+  <description><![CDATA[<p>Welcome tour, Get started checklist, Move to Applications and a new install window</p>]]></description>
+  <enclosure url="https://github.com/vgawor/orbit-releases/releases/download/v0.2.1/Orbit-0.2.1.dmg" type="application/octet-stream" sparkle:edSignature="MoKPBXTn+zDmjHlUH9H4IEz/du1Cf6NlQanAyo6AQ6FJ2RpW6bnxM8uNv3BaprCoF023sn/DVO0NXmcnjHGKDg==" length="8802200" />
+</item>
+<item>
   <title>Orbit 0.2.0</title>
   <pubDate>Wed, 28 Oct 2026 10:32:52 GMT</pubDate>
   <sparkle:version>77</sparkle:version>
