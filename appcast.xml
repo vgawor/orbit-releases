@@ -2,5 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
 <channel>
 <title>Orbit</title>
+<item>
+  <title>Orbit 0.2.0</title>
+  <pubDate>Wed, 28 Oct 2026 10:32:52 GMT</pubDate>
+  <sparkle:version>77</sparkle:version>
+  <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+  <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+  <description><![CDATA[<p>First test build: Orbit in every add-on, Home widgets for add-ons, an Add-ons tab with pinned tabs, snooze for nudges, and automatic updates.</p>]]></description>
+  <enclosure url="https://github.com/vgawor/orbit-releases/releases/download/v0.2.0/Orbit-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="0uIRJEB6z97927EsGfa4G5GLOrq2WVxX+AhXJtxSGv7SmKjR/+7ef4X2bmACjcP5r3snXLY6eBcrOiBO9ovLDw==" length="7411847" />
+</item>
 </channel>
 </rss>
