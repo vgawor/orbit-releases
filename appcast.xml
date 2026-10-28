@@ -3,6 +3,15 @@
 <channel>
 <title>Orbit</title>
 <item>
+  <title>Orbit 0.2.3</title>
+  <pubDate>Wed, 28 Oct 2026 15:42:59 GMT</pubDate>
+  <sparkle:version>89</sparkle:version>
+  <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+  <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+  <description><![CDATA[<p>Spotify Connect now finds your Sonos and other speakers on your Wi-Fi, shows where Spotify is playing on the speaker button (the volume controls that speaker), and has a Don&#x27;t see your device? help row.</p>]]></description>
+  <enclosure url="https://github.com/vgawor/orbit-releases/releases/download/v0.2.3/Orbit-0.2.3.dmg" type="application/octet-stream" sparkle:edSignature="6HpPsCjbJaieglczTh33vuoFSx4/W30+EHvVEsHpBdDVJKSy8PvhOVNCR9oovYD8dlZqub37dPXzrM83wRcIBQ==" length="8906530" />
+</item>
+<item>
   <title>Orbit 0.2.2</title>
   <pubDate>Wed, 28 Oct 2026 13:16:53 GMT</pubDate>
   <sparkle:version>85</sparkle:version>
