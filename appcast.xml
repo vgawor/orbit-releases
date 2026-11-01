@@ -3,6 +3,15 @@
 <channel>
 <title>Orbit</title>
 <item>
+  <title>Orbit 0.3.0</title>
+  <pubDate>Sun, 01 Nov 2026 11:07:59 GMT</pubDate>
+  <sparkle:version>100</sparkle:version>
+  <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+  <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+  <description><![CDATA[<p>Bots only work with HubSpot deals you own, and a new run closes the old one waiting for you. Orbits are livelier: working bots spin and move, idle bots stay still. Orbit is now its own app, separate from Visualised. If this update doesn&#x27;t install by itself, download the DMG below once.</p>]]></description>
+  <enclosure url="https://github.com/vgawor/orbit-releases/releases/download/v0.3.0/Orbit-0.3.0.dmg" type="application/octet-stream" sparkle:edSignature="TPPCCibU9MBNLCFP+KeuARt4+eT0K6Wpdt8tiR0Ut+wtLiUmFXqvP/pka2TeOJuTNfyXN2REm7rY/PDCk8F2AA==" length="9806976" />
+</item>
+<item>
   <title>Orbit 0.2.3</title>
   <pubDate>Wed, 28 Oct 2026 15:42:59 GMT</pubDate>
   <sparkle:version>89</sparkle:version>
